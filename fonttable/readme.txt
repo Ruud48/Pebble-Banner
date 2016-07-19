@@ -1,5 +1,6 @@
 
-How to create bannerfont.bin which contains the font table for Banner.
+The bannerfont.bin file contains all UTF-8 characters. 
+If you want to support other languages then you will have to creata a different bannerfont.bin as follows:
 
 1. Update BannerFont.xls with Excel
 
