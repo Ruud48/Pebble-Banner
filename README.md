@@ -1,5 +1,5 @@
 # Pebble-Banner
-CloudPebble sources for the Banner App
+CloudPebble sources for the Banner App (Show very large scrolling characters/texts on the Pebble watch)
 
 banner.zip contains all the files for the banner app, just do an "Import" in CloudPebble and you will have all the sources available
 (or unzip and store the files in your "Make" folder)
